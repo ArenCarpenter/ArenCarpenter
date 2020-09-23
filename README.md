@@ -1,10 +1,10 @@
 ## Welcome!
 
-Data scientist exploring the intersection of machine learning and healthcare.
+Data scientist exploring the intersection of machine learning and healthcare. 
 
-See my pinned repos for my recent projects!
+See the pinned repos for my recent projects using CNNs for medical imaging classification!
 
-#### Recent Towards Data Science Articles: 
+## &#x270f; Recent Towards Data Science Articles 
 
 * [Neural Architecture Transfer](https://towardsdatascience.com/neural-architecture-transfer-54226b2306e3)
 * [Precision Medicine and Machine Learning](https://towardsdatascience.com/precision-medicine-and-machine-learning-11060caa3065)
@@ -12,7 +12,7 @@ See my pinned repos for my recent projects!
 * [Understanding the Rural Uninsured](https://towardsdatascience.com/understanding-the-rural-uninsured-c14921796e5e)
 * [Basic Steps of Machine Learning](https://towardsdatascience.com/basic-steps-of-machine-learning-56495730c0e5)
 
-#### Connect
+## &#x260e; Connect
 
 * [LinkedIn](https://www.linkedin.com/in/aren-carpenter/)
 * [Medium](https://medium.com/@arencarpenter)
