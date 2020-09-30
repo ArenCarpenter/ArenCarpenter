@@ -17,3 +17,5 @@ See the pinned repos for my recent projects using CNNs for medical imaging class
 
 * [LinkedIn](https://www.linkedin.com/in/aren-carpenter/)
 * [Medium](https://medium.com/@arencarpenter)
+* [Twitter](https://twitter.com/ArenCarpenter)
+* [Website](http://arencarpenter.com/)
