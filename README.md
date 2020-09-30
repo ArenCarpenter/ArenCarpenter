@@ -11,6 +11,7 @@ See the pinned repos for my recent projects using CNNs for medical imaging class
 * [The Ethics of Data Collection](https://towardsdatascience.com/the-ethics-of-data-collection-9573dc0ae240)
 * [Understanding the Rural Uninsured](https://towardsdatascience.com/understanding-the-rural-uninsured-c14921796e5e)
 * [Basic Steps of Machine Learning](https://towardsdatascience.com/basic-steps-of-machine-learning-56495730c0e5)
+* [An Introduction to Machine Learning in Oncology](https://towardsdatascience.com/machine-learning-ai-applications-in-oncology-73a8963c4735)
 
 ## &#x260e; Connect
 
