@@ -1,8 +1,6 @@
 ## Welcome!
 
-Data scientist exploring the intersection of machine learning and healthcare. 
-
-See the pinned repos for my recent projects using CNNs for medical imaging classification!
+I'm a data scientist interested in exploring the intersection of machine learning and healthcare/oncology. My primary academic interests in oncology include epigenetics, immunotherapy, and imaging technologies for pathology. As an undergraduate, I was a research assistant in a herpetology lab where I supported conservation efforts for many species, lead outreach events for community engagement, and first-authored research on the digestive physiology of Burmese pythons and the social behavior of Diamondback terrapins.
 
 ## &#x270f; Recent Towards Data Science Articles 
 
