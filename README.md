@@ -2,6 +2,8 @@
 
 I'm a data scientist interested in exploring the intersection of machine learning and healthcare/oncology. My primary academic interests in oncology include epigenetics, immunotherapy, and imaging technologies for pathology. As an undergraduate, I was a research assistant in a herpetology lab where I supported conservation efforts for many species, lead outreach events for community engagement, and first-authored research on the digestive physiology of Burmese pythons and the social behavior of Diamondback terrapins.
 
+I deployed a [web app](https://diabetes-hospitalization.herokuapp.com/) on Heroku using Streamlit to create an interactive model from my [Predicting Diabetes Rehospitalizations](https://github.com/ArenCarpenter/Diabetes_Hospitalizations) repo. Check it out!
+
 ## &#x270f; Recent Towards Data Science Articles 
 
 * [Epigenetics in Cancer](https://arencarpenter.medium.com/epigenetics-in-cancer-c4bd8f45314)
