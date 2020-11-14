@@ -20,4 +20,4 @@ I deployed a [web app](https://diabetes-hospitalization.herokuapp.com/) on Herok
 * [LinkedIn](https://www.linkedin.com/in/aren-carpenter/)
 * [Medium](https://arencarpenter.medium.com/)
 * [Twitter](https://twitter.com/ArenCarpenter)
-* [Website](http://arencarpenter.com/)
+* [Website](http://www.arencarpenter.com/)
