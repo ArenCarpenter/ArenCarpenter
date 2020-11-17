@@ -6,6 +6,7 @@ I deployed a [web app](https://diabetes-hospitalization.herokuapp.com/) on Herok
 
 ## &#x270f; Recent Towards Data Science Articles 
 
+* [How to Deploy your Custom ML Model with Streamlit and Heroku](https://towardsdatascience.com/how-to-deploy-your-custom-ml-model-with-streamlit-and-heroku-53456cb054fb)
 * [Epigenetics in Cancer](https://arencarpenter.medium.com/epigenetics-in-cancer-c4bd8f45314)
 * [Detecting Leukemia with a CNN](https://towardsdatascience.com/detecting-leukemia-with-a-cnn-af699b19ab99)
 * [Neural Architecture Transfer](https://towardsdatascience.com/neural-architecture-transfer-54226b2306e3)
