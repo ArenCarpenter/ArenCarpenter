@@ -4,6 +4,8 @@ I'm a data scientist interested in exploring the intersection of machine learnin
 
 I deployed a [web app](https://diabetes-hospitalization.herokuapp.com/) on Heroku using Streamlit to create an interactive model from my [Predicting Diabetes Rehospitalizations](https://github.com/ArenCarpenter/Diabetes_Hospitalizations) repo. Check it out!
 
+I recently volunteered as a Data Analyst for DemocracyLab's latest hack-a-thon with OpenTwinCities project exploring police reform and racial disparities in our communities. You can check out the project [here](https://github.com/OpenTwinCities/policing-and-public-safety-data-toolkit)!
+
 ## &#x270f; Recent Towards Data Science Articles 
 
 * [How to Deploy your Custom ML Model with Streamlit and Heroku](https://towardsdatascience.com/how-to-deploy-your-custom-ml-model-with-streamlit-and-heroku-53456cb054fb)
