@@ -8,8 +8,9 @@ I recently volunteered as a Data Analyst for DemocracyLab's latest hack-a-thon w
 
 ## &#x270f; Recent Towards Data Science Articles 
 
+* [Probability Mass and Density Functions](https://towardsdatascience.com/probability-mass-and-density-functions-eab86a81d021)
+* [Bayes’ Theorem](https://towardsdatascience.com/bayes-theorem-475ab96b019f)
 * [How to Deploy your Custom ML Model with Streamlit and Heroku](https://towardsdatascience.com/how-to-deploy-your-custom-ml-model-with-streamlit-and-heroku-53456cb054fb)
-* [Epigenetics in Cancer](https://arencarpenter.medium.com/epigenetics-in-cancer-c4bd8f45314)
 * [Detecting Leukemia with a CNN](https://towardsdatascience.com/detecting-leukemia-with-a-cnn-af699b19ab99)
 * [Neural Architecture Transfer](https://towardsdatascience.com/neural-architecture-transfer-54226b2306e3)
 * [Precision Medicine and Machine Learning](https://towardsdatascience.com/precision-medicine-and-machine-learning-11060caa3065)
