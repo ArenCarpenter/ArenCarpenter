@@ -4,12 +4,15 @@ I'm a data scientist interested in exploring the intersection of machine learnin
 
 ## 💥 Happenings
 
-* I deployed a [web app](https://diabetes-hospitalization.herokuapp.com/) on Heroku using Streamlit to create an interactive model from my [Predicting Diabetes Rehospitalizations](https://github.com/ArenCarpenter/Diabetes_Hospitalizations) repo. Check it out!
+* I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Diabetes Rehospitalizations](https://github.com/ArenCarpenter/Diabetes_Hospitalizations) repo. [Check it out](https://diabetes-hospitalization.herokuapp.com/)!
+    
+    * I was invited by Streamlit to host my web app on their beta version sharing service! [Check it out](https://share.streamlit.io/arencarpenter/diabetes_hospitalizations/web_app.py)!
 
-* I recently volunteered as a Data Analyst for DemocracyLab's latest hack-a-thon with OpenTwinCities project exploring police reform and racial disparities in our communities. You can check out the project [here](https://github.com/OpenTwinCities/policing-and-public-safety-data-toolkit)!
+* I recently volunteered as a Data Analyst for DemocracyLab's latest hack-a-thon with OpenTwinCities' project exploring police reform and racial disparities in our communities. [Check it out](https://github.com/OpenTwinCities/policing-and-public-safety-data-toolkit)!
 
 ## &#x270f; Recent Towards Data Science Articles 
 
+* [The Normal Distribution](https://towardsdatascience.com/the-normal-distribution-17a4092766ac)
 * [Probability Mass and Density Functions](https://towardsdatascience.com/probability-mass-and-density-functions-eab86a81d021)
 * [Bayes’ Theorem](https://towardsdatascience.com/bayes-theorem-475ab96b019f)
 * [How to Deploy your Custom ML Model with Streamlit and Heroku](https://towardsdatascience.com/how-to-deploy-your-custom-ml-model-with-streamlit-and-heroku-53456cb054fb)
@@ -18,7 +21,6 @@ I'm a data scientist interested in exploring the intersection of machine learnin
 * [Precision Medicine and Machine Learning](https://towardsdatascience.com/precision-medicine-and-machine-learning-11060caa3065)
 * [The Ethics of Data Collection](https://towardsdatascience.com/the-ethics-of-data-collection-9573dc0ae240)
 * [Understanding the Rural Uninsured](https://towardsdatascience.com/understanding-the-rural-uninsured-c14921796e5e)
-* [Basic Steps of Machine Learning](https://towardsdatascience.com/basic-steps-of-machine-learning-56495730c0e5)
 * [An Introduction to Machine Learning in Oncology](https://towardsdatascience.com/machine-learning-ai-applications-in-oncology-73a8963c4735)
 
 ## &#x260e; Connect
