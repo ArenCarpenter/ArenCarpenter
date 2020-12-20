@@ -2,6 +2,10 @@
 
 I'm a data scientist interested in exploring the intersection of machine learning and healthcare/oncology. My primary academic interests in oncology include epigenetics, immunotherapy, and imaging technologies for pathology. As an undergraduate, I was a research assistant in a herpetology lab where I supported conservation efforts for many species, lead outreach events for community engagement, and first-authored research on the digestive physiology of Burmese pythons and the social behavior of Diamondback terrapins.
 
+I have experience in data acquisition and modeling, statistical analysis, machine learning, deep learning, image classification, and NLP. As an analytic, outcome-based thinker I bring strong interpersonal skills to projects with a diverse set of clients, to deliver individualized outcomes. With strong skills in project management and research, developed through a background in biology and theater, I am a leader that helps the healthcare industry drive improved pathological outcomes with machine learning/AI.
+
+Outside of coding, I'm an avid sci-fi reader, completely average chess player, and Bob's Burgers fan.
+
 ## 💥 Happenings
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Diabetes Rehospitalizations](https://github.com/ArenCarpenter/Diabetes_Hospitalizations) repo. [Check it out](https://diabetes-hospitalization.herokuapp.com/)!
