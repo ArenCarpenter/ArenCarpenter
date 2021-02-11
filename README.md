@@ -16,7 +16,7 @@ Outside of coding, I'm an avid sci-fi reader, completely average chess player, a
 
 ## &#x270f; Recent Towards Data Science Articles 
 
-* [Using EDA to Generate Business Understanding: Insights for customer segmentation and extrinsic factors](https://towardsdatascience.com/using-eda-to-generate-business-understanding-7f07f81e5af6)
+* [The Art of Science: Creating Insightful and Beautiful Bioinformatics Visualizations](https://towardsdatascience.com/the-art-of-science-7a2ebb72275f)
 * [Effect Size: Moving beyond the p-value](https://towardsdatascience.com/effect-size-d132b0cc8669)
 * [Why You Should Play Chess](https://towardsdatascience.com/why-you-should-play-chess-45098a735003)
 * [The Normal Distribution](https://towardsdatascience.com/the-normal-distribution-17a4092766ac)
