@@ -23,6 +23,7 @@ Outside of coding, I'm an avid sci-fi reader, completely average chess player, a
 * [The Normal Distribution](https://towardsdatascience.com/the-normal-distribution-17a4092766ac)
 * [Bayes’ Theorem](https://towardsdatascience.com/bayes-theorem-475ab96b019f)
 * [How to Deploy your Custom ML Model with Streamlit and Heroku](https://towardsdatascience.com/how-to-deploy-your-custom-ml-model-with-streamlit-and-heroku-53456cb054fb)
+* [Profiling Your Code: How to Identify CPU and Memory Inefficiencies](https://medium.com/codex/profiling-your-code-4a1538afd1e1)
 * [Precision Medicine and Machine Learning](https://towardsdatascience.com/precision-medicine-and-machine-learning-11060caa3065)
 * [The Ethics of Data Collection](https://towardsdatascience.com/the-ethics-of-data-collection-9573dc0ae240)
 * [An Introduction to Machine Learning in Oncology](https://towardsdatascience.com/machine-learning-ai-applications-in-oncology-73a8963c4735)
