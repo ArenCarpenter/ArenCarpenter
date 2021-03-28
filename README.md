@@ -1,10 +1,10 @@
 ## 👋 Welcome!
 
-I'm a data scientist interested in exploring the intersection of machine learning and healthcare/oncology. My primary academic interests in oncology include epigenetics, immunotherapy, and imaging technologies for pathology. As an undergraduate, I was a research assistant in a herpetology lab where I supported conservation efforts for many species, lead outreach events for community engagement, and first-authored research on the digestive physiology of Burmese pythons and the social behavior of Diamondback terrapins.
+I'm a data scientist interested in exploring the intersection of machine learning and complex systems. As an undergraduate, my primary academic interests were in economics and oncology—epigenetics, immunotherapy, and imaging technologies for pathology. I was a research assistant in a herpetology lab where I supported conservation efforts for many species, lead outreach events for community engagement, and first-authored research on the digestive physiology of Burmese pythons and the social behavior of Diamondback terrapins.
 
-I have experience in data acquisition and modeling, statistical analysis, machine learning, deep learning, image classification, and NLP. As an analytic, outcome-based thinker I bring strong interpersonal skills to projects with a diverse set of clients, to deliver individualized outcomes. With strong skills in project management and research, developed through a background in biology and theater, I am a leader that helps the healthcare industry drive improved pathological outcomes with machine learning/AI.
+I have experience in data acquisition and modeling, statistical analysis, machine learning, deep learning, image classification, and NLP. As an analytic, outcome-based thinker I bring strong interpersonal skills to projects with a diverse set of clients, to deliver individualized outcomes. With strong skills in project management and research, developed through a background in biology, finance, and theater, I am a leader that drives improved outcomes with machine learning.
 
-Outside of coding, I'm an avid sci-fi reader, completely average chess player, and Bob's Burgers fan.
+Outside of data science, I'm an avid sci-fi reader, average chess player, and Bob's Burgers fan.
 
 ## 💥 Happenings
 
@@ -23,7 +23,6 @@ Outside of coding, I'm an avid sci-fi reader, completely average chess player, a
 * [The Normal Distribution](https://towardsdatascience.com/the-normal-distribution-17a4092766ac)
 * [Bayes’ Theorem](https://towardsdatascience.com/bayes-theorem-475ab96b019f)
 * [How to Deploy your Custom ML Model with Streamlit and Heroku](https://towardsdatascience.com/how-to-deploy-your-custom-ml-model-with-streamlit-and-heroku-53456cb054fb)
-* [Profiling Your Code: How to Identify CPU and Memory Inefficiencies](https://medium.com/codex/profiling-your-code-4a1538afd1e1)
 * [Precision Medicine and Machine Learning](https://towardsdatascience.com/precision-medicine-and-machine-learning-11060caa3065)
 * [The Ethics of Data Collection](https://towardsdatascience.com/the-ethics-of-data-collection-9573dc0ae240)
 * [An Introduction to Machine Learning in Oncology](https://towardsdatascience.com/machine-learning-ai-applications-in-oncology-73a8963c4735)
