@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-I'm a data scientist interested in exploring the intersection of machine learning and complex systems. As an undergraduate, my primary academic interests were in economics and oncology—epigenetics, immunotherapy, and imaging technologies for pathology. I was a research assistant in a herpetology lab where I supported conservation efforts for many species, lead outreach events for community engagement, and first-authored research on the digestive physiology of Burmese pythons and the social behavior of Diamondback terrapins.
+I'm a data scientist interested in exploring the intersection of machine learning and complex systems. As an undergraduate, my primary academic interests were in economics and oncology—epigenetics, immunotherapy, and imaging technologies for pathology. I was a research assistant in a herpetology lab where I supported conservation efforts for many species, led outreach events for community engagement, and first-authored research on the digestive physiology of Burmese pythons and the social behavior of Diamondback terrapins.
 
 I have experience in data acquisition and modeling, statistical analysis, machine learning, deep learning, image classification, and NLP. As an analytic, outcome-based thinker I bring strong interpersonal skills to projects with a diverse set of clients, to deliver individualized outcomes. With strong skills in project management and research, developed through a background in biology, finance, and theater, I am a leader that drives improved outcomes with machine learning.
 
